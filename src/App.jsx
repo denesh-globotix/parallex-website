@@ -13,7 +13,7 @@ function App() {
           <h1>Hey hey, how's it going?</h1>
         </ParallaxLayer>
 
-        <ParallaxLayer>
+        <ParallaxLayer offset={1}>
         <h2>Wow react is cool</h2>
         </ParallaxLayer>
 
